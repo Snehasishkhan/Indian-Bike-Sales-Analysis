@@ -45,8 +45,3 @@ The objective of this project is to analyze bike sales data and present useful i
 - Data Filtering
 - Business Insights
 
-
-## Dashboard Preview
-## Dashboard Preview
-
-![Indian Bike Sales Dashboard](Dashboard.png)
